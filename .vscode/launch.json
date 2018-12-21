@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BikeApplication<bike>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.globomatics.bike.BikeApplication",
+            "projectName": "bike",
+            "args": ""
+        }
+    ]
+}
